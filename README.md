@@ -1,4 +1,4 @@
-I created this date-picker proyect to keep increasing my profficiency in TypeScript and JavaScript and problem-solving logic
+I created this date-picker project to keep increasing my proficiency in TypeScript and JavaScript and problem-solving logic
 
 I used npm to install date-fns library to handle the dates logic and to set up parcel as my bundler 
 
